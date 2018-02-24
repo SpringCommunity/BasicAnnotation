@@ -4,7 +4,7 @@
 - Show how to handle user's input using basic annotation in Spring Framework
 
 # Release 
-- created: Thu 10 Fe 2017 
+- created: Mon 2 Fe 2017 
 
 # Configuration 
 - mvn archetype:generate
